@@ -21,7 +21,6 @@
 
 - 🔭 Derzeit arbeite ich an: **[Projektname]**
 - 🌱 Lerne gerade: **[Technologie]**
-- 💬 Frag mich zu: Python, JavaScript, Fullstack-Entwicklung
 - 📍 Frankfurt am Main, Deutschland
 
 ---
