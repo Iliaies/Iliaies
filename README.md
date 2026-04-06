@@ -29,7 +29,6 @@
 
 **Sprachen:** Python · Java · JavaScript · HTML · CSS · SQL · LaTeX  
 **Datenbank:** MongoDB · SQL  
-**Tools:** Git · GitHub · VS Code  
 
 ---
 
@@ -39,7 +38,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Iliaies&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=Iliaies&theme=tokyonight&hide_border=true)
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaies&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
