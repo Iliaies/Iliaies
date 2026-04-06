@@ -2,14 +2,16 @@
 
 # 👋 Hey, ich bin Ilia Esmaeilinasab
 
-### Fullstack Developer · TypeScript · React · Node.js
+### Fullstack Developer · Python · JavaScript · Java
 
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 </div>
 
@@ -19,17 +21,16 @@
 
 - 🔭 Derzeit arbeite ich an: **[Projektname]**
 - 🌱 Lerne gerade: **[Technologie]**
-- 💬 Frag mich zu: React, Node.js, API-Design
+- 💬 Frag mich zu: Python, JavaScript, Fullstack-Entwicklung
 - 📍 Frankfurt am Main, Deutschland
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend:** React · Next.js · TypeScript · TailwindCSS  
-**Backend:** Node.js · Express · GraphQL · REST  
-**Datenbank:** PostgreSQL · MongoDB · Redis  
-**DevOps:** Docker · AWS · GitHub Actions  
+**Sprachen:** Python · Java · JavaScript · HTML · CSS · SQL · LaTeX  
+**Datenbank:** MongoDB · SQL  
+**Tools:** Git · GitHub · VS Code · IntelliJ
 
 ---
 
@@ -54,5 +55,5 @@
 
 ### 📫 Kontakt
 
-- LinkedIn: [linkedin.com/in/iliaies](https://linkedin.com/in/iliaies)
+- LinkedIn: [linkedin.com/in/ilia-esmaeilinasab-386852315](https://www.linkedin.com/in/ilia-esmaeilinasab-386852315)
 - Portfolio: [Iliaies.github.io](https://Iliaies.github.io)
