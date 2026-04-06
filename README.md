@@ -52,5 +52,5 @@
 
 ### 📫 Kontakt
 
-- LinkedIn: [linkedin.com/in/iliaies](https://linkedin.com/in/iliaies)
+- LinkedIn: [linkedin.com/in/ilia-esmaeilinasab-386852315](https://www.linkedin.com/in/ilia-esmaeilinasab-386852315)
 - Portfolio: [Iliaies.github.io](https://Iliaies.github.io)
