@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, ich bin Ilia Esmaeilinasab
+# Hej, ich bin Ilia Esmaeilinasab
 
 ### Fullstack Developer · Python · JavaScript · Java
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Über mich
+### Über mich
 
 - 🔭 Derzeit arbeite ich an: **[Projektname]**
 - 🌱 Lerne gerade: **[Technologie]**
